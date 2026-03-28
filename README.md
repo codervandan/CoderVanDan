@@ -1,5 +1,3 @@
-## Hi there 👋 😃
-
 ## Hi 👋, I'm Daniel Quintana!
 ## I'm a Sr Software Engineer @ TripleTen.
 
