@@ -12,12 +12,12 @@ I am a Full-Stack Software Engineer currently undergoing intensive training thro
 
 I am continuously focused on improving, building high-quality applications, and positioning myself to deliver real value in professional software engineering environments.
 
-🔭 I’m currently working on building full-stack MERN applications through TripleTen, focusing on real-world projects that simulate production environments
-🌱 I’m currently learning advanced React patterns, backend architecture with Node.js/Express, database design with MongoDB, and scalable system thinking
-👯 I’m looking to collaborate on full-stack web applications, SaaS projects, and real-world MERN stack builds that solve meaningful problems
-🤔 I’m looking for help with advanced backend architecture, scaling applications, and optimizing performance in production environments
-💬 Ask me about React, JavaScript, full-stack development, or how I’m leveling up through TripleTen
-📫 How to reach me: [add your email here] | [add your LinkedIn or portfolio link]
-😄 Pronouns: he/him (edit if different)
-⚡ Fun fact: I’m actively transforming into a high-level software engineer by building real-world projects and thinking long-term about systems, not just code
+- 🔭 I’m currently working on building full-stack MERN applications through TripleTen, focusing on real-world projects that simulate production environments
+- 🌱 I’m currently learning advanced React patterns, backend architecture with Node.js/Express, database design with MongoDB, and scalable system thinking
+- 👯 I’m looking to collaborate on full-stack web applications, SaaS projects, and real-world MERN stack builds that solve meaningful problems
+- 🤔 I’m looking for help with advanced backend architecture, scaling applications, and optimizing performance in production environments
+- 💬 Ask me about React, JavaScript, full-stack development, or how I’m leveling up through TripleTen
+- 📫 How to reach me: [add your email here] | [add your LinkedIn or portfolio link]
+- 😄 Pronouns: he/him (edit if different)
+- ⚡ Fun fact: I’m actively transforming into a high-level software engineer by building real-world projects and thinking long-term about systems, not just code
 
