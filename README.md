@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-Portofolio: https://dquintana-portfolio.netlify.app/
+Portfolio: https://dquintana-portfolio.netlify.app/
 Skills badges:
 
 I am a Full-Stack Software Engineer currently undergoing intensive training through TripleTen’s Full Stack Web Development program, where I am building production-level applications using modern technologies and best practices. My focus is on the MERN stack (MongoDB, Express.js, React, Node.js), along with a strong foundation in front-end and back-end architecture. Through my training, I have developed hands-on experience with technologies including HTML5, CSS3, Flexbox, Grid, BEM methodology, responsive design, JavaScript (ES6+), DOM manipulation, debugging, Git/GitHub, and Figma. On the front-end, I build dynamic and scalable user interfaces using React, including components, hooks, and state management. On the back-end, I develop RESTful APIs with Node.js and Express, working with databases like MongoDB and Mongoose. I also have experience with modern development tools and workflows such as Webpack, NPM, form validation, object-oriented programming (OOP), and full-cycle deployment using platforms like AWS, Microsoft Azure, and Google Cloud. Throughout my learning journey, I’ve gone beyond just completing projects—I’ve actively strengthened my problem-solving skills, debugging ability, and understanding of real-world development workflows.
