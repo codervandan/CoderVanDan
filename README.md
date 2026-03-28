@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Quintana</h1>
 <h3 align="center">Full Stack Engineer @ TripleTen | Building Scalable Web Applications</h3>
 
-<p align="left">codervandan alt="codervandan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codervandan" alt="codervandan" /></a> </p>
 
 - 🔭 I’m currently working on [Production-Ready Portfolio & Web Apps](https://codervandan.github.io/se_project_spots/)
