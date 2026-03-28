@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Quintana</h1>
 <h3 align="center">Full Stack Engineer @ TripleTen | Building Scalable Web Applications</h3>
 
+<p> I am a Full-Stack Software Engineer currently undergoing intensive training through TripleTen’s Full Stack Web Development program, where I am building production-level applications using modern technologies and best practices. My focus is on the MERN stack (MongoDB, Express.js, React, Node.js), along with a strong foundation in front-end and back-end architecture. Through my training, I have developed hands-on experience with technologies including HTML5, CSS3, Flexbox, Grid, BEM methodology, responsive design, JavaScript (ES6+), DOM manipulation, debugging, Git/GitHub, and Figma. </p>
+
 - 🔭 I’m currently working on [Production-Ready Portfolio & Web Apps](https://codervandan.github.io/se_project_spots/)
 - 🌱 I’m currently learning **Advanced React, Node.js, Express, MongoDB, and system design through TripleTen**
 - 👯 I’m looking to collaborate on **Frontend-heavy or full stack projects with real users and real-world impact**
