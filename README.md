@@ -21,3 +21,6 @@ I am continuously focused on improving, building high-quality applications, and 
 - 😄 Pronouns: he/him (edit if different)
 - ⚡ Fun fact: I’m actively transforming into a high-level software engineer by building real-world projects and thinking long-term about systems, not just code
 
+**Language and Tools** 
+
+aws azure babel bootstrap css3 d3js dart docker express figma firebase flutter gatsby gcp git grafana html5 hugo illustrator javascript jekyll jenkins kubernetes linux materialize mocha mongodb mssql mysql nginx nodejs photoshop php postman react reactnative redux sass
