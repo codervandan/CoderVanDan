@@ -1,5 +1,4 @@
-## Hi 👋, I'm Daniel Quintana!
-## I'm a Sr Software Engineer @ TripleTen.
+## Hi 👋, I'm Daniel Quintana! I'm a Software Engineer @ TripleTen.
 
 
 **codervandan/CoderVanDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
