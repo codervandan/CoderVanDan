@@ -1,24 +1,14 @@
 <h1 align="center">Hi 👋, I'm Daniel Quintana</h1>
 <h3 align="center">Full Stack Engineer @ TripleTen | Building Scalable Web Applications</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codervandan" alt="codervandan" /></a> </p>
-
 - 🔭 I’m currently working on [Production-Ready Portfolio & Web Apps](https://codervandan.github.io/se_project_spots/)
-
 - 🌱 I’m currently learning **Advanced React, Node.js, Express, MongoDB, and system design through TripleTen**
-
 - 👯 I’m looking to collaborate on **Frontend-heavy or full stack projects with real users and real-world impact**
-
 - 🤝 I’m looking for help with **Scaling applications, backend architecture, and performance optimization**
-
 - 👨‍💻 All of my projects are available at [https://dquintana-portfolio.netlify.app/](https://dquintana-portfolio.netlify.app/)
-
 - 💬 Ask me about **React, JavaScript fundamentals, API integration, and building full stack projects from scratch**
-
 - 📫 How to reach me **dquintana.dev@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Mr1FiUPhAre-GBSTYddKaQ5hz6Oy3T2a/view?usp=sharing](https://drive.google.com/file/d/1Mr1FiUPhAre-GBSTYddKaQ5hz6Oy3T2a/view?usp=sharing)
-
 - ⚡ Fun fact **I play guitar and can perform Desperado 🎶**
 
 <h3 align="left">Connect with me:</h3>
